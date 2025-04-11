@@ -11,7 +11,7 @@ This is a program that automates logging into BIPO and completing the clock-in p
     USERNAME=MyName
     PASSWORD=eW91ciBwYXNzd29yZAo=
     ```
-    How to use base64 decode in command line
+    How to use base64 encode in command line
     e.g: `echo 'your password' | base64`
 3. Run check in
    `python checkin.py`
